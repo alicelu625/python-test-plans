@@ -7,8 +7,8 @@ This program organizes test plan approvals for multiple levels of management (hi
 * High = Need approval by any 1 of the higher-level managers (direct & indirect managers of the creator's direct managers)
 
 To run program:
-Open a terminal inside of the directory where the file is located and enter the command: `py test_plans.py`
-(may be different terminal command depending on the terminal)
+Open a terminal inside of the directory where the file is located and enter the command: 
+`py test_plans.py` (may be different terminal command depending on the terminal)
 
 Additional Information:
 Example test plan data are initialized in the program. 
